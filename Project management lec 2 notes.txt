@@ -1,5 +1,0 @@
-1. Mark all the holidays in calendar
-2. mark the friday after thanksgiving as a holiday
-3. mark the last week from christmas to new year as holiday
-4. start date and end date is included in the duration count
-5.
